@@ -14,7 +14,7 @@ Install:<br>
 
 Usage:<br>
 ```
-./fdf map/42.fdf
+>>> ./fdf map/42.fdf
 ```
 r: rotate map<br>
 arrows: move around<br>

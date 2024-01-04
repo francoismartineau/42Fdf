@@ -5,7 +5,7 @@ Fdf is program that displays an isometric projection of a wireframe map.<br>
 Requisites:<br>
 . make<br>
 . cmake<br>
-. glfw (it's installation folder should be given to Makefile's GLFW_DIR variable)<br>
+. glfw (its installation folder should be given to Makefile's GLFW_DIR variable)<br>
 <br>
 Install:<br>
 ```

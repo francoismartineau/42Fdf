@@ -22,5 +22,5 @@ arrows: move around<br>
 g: display grid<br>
 Shift + Up/Down: increase / decrease slopes<br>
 
-[map1](https://postimg.cc/bsvVLrLF)
-[map2](https://postimg.cc/WhfWyVHp)
+![map1](https://postimg.cc/bsvVLrLF)
+![map2](https://postimg.cc/WhfWyVHp)

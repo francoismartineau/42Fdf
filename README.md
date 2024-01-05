@@ -23,3 +23,4 @@ g: display grid<br>
 Shift + Up/Down: increase / decrease slopes<br>
 
 [![Screen-Shot-2024-01-04-at-11-53-15-AM.png](https://i.postimg.cc/WbmRNJZj/Screen-Shot-2024-01-04-at-11-53-15-AM.png)](https://postimg.cc/bsvVLrLF)
+[![Screen-Shot-2024-01-04-at-11-55-03-AM.png](https://i.postimg.cc/YCt5hqNF/Screen-Shot-2024-01-04-at-11-55-03-AM.png)](https://postimg.cc/WhfWyVHp)
